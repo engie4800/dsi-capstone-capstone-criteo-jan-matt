@@ -1,7 +1,7 @@
 # .github
 This repository contains all the work produced from the collaboration between Criteo and Columbia University for the Data Science Capstone &amp; Ethics (ENGI E4800), Spring 2024 semester
 
-Columbia University contributors: TO BE ADDED
+Columbia University contributors: Xinyi Chen, Martin Fluder, Jean Law, Ling Lin, Yue Yin
 
 Criteo: [Jan Benzing](https://github.com/janbenzing), [Matt Merenich](https://github.com/mmerenich21)  
 
