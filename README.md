@@ -33,4 +33,10 @@ The CourseInfo folder has the templates for your  reports, progress log, meeting
 4. Meeting Minutes
 
 The code can be placed in a folder named code, and the remaining files can be placed as .pdf files in the root directory.
+
+## Shared GitHub with Jan and Matt:
+
+To simplify our workflow, we might mostly commit to the shared github with Jan and Matt:
+
+https://github.com/criteo-columbia-engi-e4800-s2024/broken-banner-detection
    
