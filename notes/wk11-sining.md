@@ -1,0 +1,4 @@
+- reduce the length of report
+- make figures impactful
+- Figure 4 can be shown using text
+- add contribution section
