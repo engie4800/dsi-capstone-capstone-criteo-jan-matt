@@ -99,7 +99,7 @@ Confusion matrix at best threshold:
  [  79  147]]
 AUC: 0.8079679156199108
 
-# Test 3 cis
+#   
 ## experiment:
 same as Test 3 bis but improved numerator: replaced uniform distribution by 
 ```
