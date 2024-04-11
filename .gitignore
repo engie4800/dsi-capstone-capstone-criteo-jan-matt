@@ -1,6 +1,8 @@
 datasets/heatmaps/
 notebooks/algos.ipynb
 notebooks/visualization
+notebooks/eda.ipynb
 backup
 trash
 notebooks/temp
+notebooks/Stat_approach_original.ipynb
