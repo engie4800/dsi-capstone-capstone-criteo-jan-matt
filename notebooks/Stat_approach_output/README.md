@@ -160,3 +160,8 @@ Confusion matrix at best threshold:
 [[2782   22]
  [  44  182]]
  AUC: 0.97
+
+
+ # Test 5
+ numerator = 
+ denominator = 
