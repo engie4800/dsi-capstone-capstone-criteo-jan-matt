@@ -6,3 +6,8 @@ backup
 trash
 notebooks/temp
 notebooks/Stat_approach_original.ipynb
+report
+notebooks/data
+notebooks/final_img
+notebooks/img_pipeline.py
+datasets/data_6p_combined.csv
