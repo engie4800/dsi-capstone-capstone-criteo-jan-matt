@@ -1,2 +1,0 @@
-# This directory contains the output of `pca_pipeline.py`: pca_df.csv (dataframe of points with PC1, PC2, labels), 
-# normalized_input.csv (dataframe of points after normalization), pca_df.jpg (plot of pca_df)
