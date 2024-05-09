@@ -1,3 +1,0 @@
-- multiprocessing multithreading to improve latency
-- something about android and broken banners and clicks in the corner
-- 

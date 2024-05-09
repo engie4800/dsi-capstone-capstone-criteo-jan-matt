@@ -51,7 +51,7 @@ Some are repaired but others break so the broken banner rate is usually quite co
 
 Cost involved for us whether to contact the given domain or not
 
-Sining
+Prof Sining
 Baseline metrics - 1 million ads in 1 minute 
 Our method - 1 million ads in 3 minutes, it takes 30 min to run students algo 
 Scalability is 1:10
@@ -59,5 +59,5 @@ Scalability is 1:10
 Jan
 Look at how many ads per day, see how long the job takes to run
 
-Sining
+Prof Sining
 Baseline method, math method to determine if banner is broken

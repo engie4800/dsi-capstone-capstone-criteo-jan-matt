@@ -29,8 +29,8 @@
 
 - conclusion: for this week, we will focus on using the ground truth to understand the metrics: CTR, low landing rate, high closing rate...
 
-# who does what????
-- heatmap pca for other grid id + checking through (+ resnet????????? but not priority) (jean)
+# who does what?
+- heatmap pca for other grid id + checking through (+ resnet but not priority) (jean)
 - heatmap isolation forest (or SVM/ other anomaly detection methods if isolation forest is not promising): hyperparameter tuning / try PCA (ling)
 - heatmap k-means + testing with PCA beforehand (jenny)
 - knn on metrics dataset (xinyi)

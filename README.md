@@ -14,7 +14,7 @@ Criteo is working on spotting such misclicks and slow banner issues. For that, w
 This repository contains the following directories:
 - `datasets`: all datasets provided by Criteo, as well as a train-test split for the first dataset provided
 - `heatmap_plots`: plots of the heatmaps, `broken_banners` contains the plots of the broken banners of the first dataset provided, `new_data_classify` is the visualization of all the heatmaps from the time series dataset 
-- `reports`: midterm and final report
+- `reports`: midterm, ethics and final report
 - `notebooks`: all code used to implement the methods that have been presented in the final report. Directory `old code` contains code for data preprocessing, data visualization and other methods tested.
 - `notes`: informal meeting notes with mentors, professor and internal team
 - `presentations`: all presentation slides during weekly updates with mentors
