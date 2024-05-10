@@ -1,0 +1,14 @@
+# Preparation for week 4 meetings : Feb 5/6
+
+## Progress update:
+- we intend to split into two teams to work on the 2 datasets separately
+
+## Questions to ask on Feb 6 to Criteo:
+Main question - we need the descriptions for the dataset
+`A_data_domain_perf_metrics_300x250_3p`
+- display = number of clicks?
+- grid_id = two types of banners?
+
+`A_data_heatmap_300x250_3p`
+
+## Questions to ask on Feb 7 to professor:
